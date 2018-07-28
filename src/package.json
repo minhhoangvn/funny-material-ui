@@ -1,0 +1,13 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/text-fields/TextFields.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "prop-types": "latest",
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "mobx": "^5.0.3",
+    "mobx-react": "^5.2.3"
+  }
+}
